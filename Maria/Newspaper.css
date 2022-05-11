@@ -16,6 +16,12 @@ footer {
     margin-top: 50px;
 }
 
+div {
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 a {
     text-decoration: none;
     color: brown;
@@ -24,4 +30,8 @@ a {
 
 footer>p {
     color: brown;
+}
+
+div {
+    background-attachment: fixed;
 }
