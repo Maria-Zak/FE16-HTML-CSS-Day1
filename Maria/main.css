@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+}
+
+div {
+    border: 1px solid blue;
+    margin: 5px;
+}
+
+
+/* #third>p {
+    display: none;
+} */
+
+h1 {
+    display: none;
+}
+
+#second {
+    visibility: hidden;
+}
+
+#first span p {
+    font-weight: bold;
+}
+
+img {
+    visibility: visible;
+}
+
+#second * {
+    border: 1px solid red;
+}
