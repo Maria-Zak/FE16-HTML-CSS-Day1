@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    margin-left: 5px;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: 100;
+    color: rgb(34, 6, 6);
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+h4 {
+    font-style: normal;
+    text-align: justify;
+    margin-top: 15px;
+    color: gray;
+    font-size: small;
+}
+
+#date {
+    margin-top: 0px;
+    font-style: italic;
+}
+
+#summary {
+    font-style: italic;
+    color: rgb(15, 3, 48);
+    text-align: justify;
+}
+
+.article {
+    font-style: normal;
+    color: black;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.imgInfo {
+    font-style: oblique;
+    color: blue;
+}
+
+.foto {
+    font-style: inherit;
+    color: grey;
+    font-size: small;
+}
+
+.image {
+    text-align: center;
+}
+
+p {
+    margin-left: 15px;
+    margin-right: 20px;
+}
+
+.video {
+    text-align: center;
+    margin-top: 20px;
+}
