@@ -1,0 +1,22 @@
+#hed{
+    width: 100%;
+    height: 30%;
+    top: 0%;
+    background-color: aqua;
+    margin-top: 0px;
+    margin-right: 0%;
+    margin-left: 0%;
+    position: fixed;
+}
+h1 {
+    text-align: center;
+}
+#p1{
+    width: 100%;
+    height: 70%;
+    position: absolute;
+    background-color: rgb(71, 180, 216);
+    bottom: 0%;
+    font-size: larger;
+    
+}

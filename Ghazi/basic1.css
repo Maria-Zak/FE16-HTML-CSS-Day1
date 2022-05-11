@@ -1,0 +1,26 @@
+div {
+    border: 20;
+    margin: 5px;
+}
+body {
+    background-color: blueviolet;
+}
+#third P  {/*visibility: hidden;*/
+    
+}
+h1{
+    /*visibility: hidden;*/
+}
+p {
+  /*  visibility: hidden;*/
+}
+img{
+
+    width: 300PX;
+    height: 300px;
+}
+#first p {
+    font-size: 50px;
+}
+
+    
